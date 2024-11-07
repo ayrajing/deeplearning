@@ -1,0 +1,6 @@
+pytorchlearning/dataset/*
+*.tar.gz
+__pycache__/
+*.pyc
+logs_train/
+*.pth
